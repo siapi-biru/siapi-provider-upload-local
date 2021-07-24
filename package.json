@@ -1,0 +1,30 @@
+{
+  "name": "siapi-provider-upload-local",
+  "version": "3.6.5",
+  "description": "Local provider for siapi upload",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "siapi": {
+    "isProvider": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/siapi-biru/siapi.git"
+  },
+  "peerDependencies": {
+    "siapi-plugin-upload": "github:siapi-biru/siapi-plugin-upload#v3.6.5"
+  },
+  "bugs": {
+    "url": "https://github.com/siapi-biru/siapi/issues"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+}
