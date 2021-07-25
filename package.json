@@ -14,7 +14,7 @@
     "url": "git://github.com/siapi-biru/siapi.git"
   },
   "peerDependencies": {
-    "siapi-plugin-upload": "github:siapi-biru/siapi-plugin-upload#v3.6.5"
+    "siapi-plugin-upload": "github:siapi-biru/siapi-plugin-upload"
   },
   "bugs": {
     "url": "https://github.com/siapi-biru/siapi/issues"
